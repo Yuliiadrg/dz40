@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dz40/static/css/main.3715d263.css",
+    "main.js": "/dz40/static/js/main.bb205830.js",
+    "static/media/hero.jpg": "/dz40/static/media/hero.71b27ac7f37c7c6d793c.jpg",
+    "static/media/reviews.svg": "/dz40/static/media/reviews.89f8e45b53551ab8e559031a9a5bc625.svg",
+    "static/media/catalog.svg": "/dz40/static/media/catalog.9b2996021a19d5338444b3fa5251ac1d.svg",
+    "static/media/customers.svg": "/dz40/static/media/customers.f8e5d3fea5049298aeadedf198bcf479.svg",
+    "static/media/update.svg": "/dz40/static/media/update.260c825d2582602be072d86b786995eb.svg",
+    "static/media/newCustomers.svg": "/dz40/static/media/newCustomers.e3073ecc55ddfec667c4d811a156aee0.svg",
+    "static/media/sales.svg": "/dz40/static/media/sales.b137e8d2a92eca153bb9cfc7de40201d.svg",
+    "index.html": "/dz40/index.html",
+    "static/media/customer.svg": "/dz40/static/media/customer.adf0157ed199a8549cb8c3031d6f6ee8.svg",
+    "static/media/dashboard.svg": "/dz40/static/media/dashboard.83b86c19d8a39d58ab586b307ecec0ec.svg",
+    "static/media/menu.svg": "/dz40/static/media/menu.d0905d7134e3e09807d8afe7fa2891f2.svg",
+    "main.3715d263.css.map": "/dz40/static/css/main.3715d263.css.map",
+    "main.bb205830.js.map": "/dz40/static/js/main.bb205830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3715d263.css",
+    "static/js/main.bb205830.js"
+  ]
+}
